@@ -1,4 +1,6 @@
-# Hii i am Ritesh
+# Hey 👋 
+<br>
+<h1>I am Ritesh</h1>
 
 
 - 🔭 I’m currently working on :- **Java DSA**
